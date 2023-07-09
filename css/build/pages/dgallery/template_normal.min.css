@@ -3,10 +3,23 @@
     width: 80px;
     text-align: center
 }
-.ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+.random-sites {
+    padding: 20px;
+    background-color: #f2f2f2;
+}
+
+.random-sites h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.random-sites ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+.random-sites li {
+    margin-bottom: 5px;
 }
 .sk-three-bounce .sk-child {
     width: 20px;
