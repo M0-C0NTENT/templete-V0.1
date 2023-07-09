@@ -3,7 +3,11 @@
     width: 80px;
     text-align: center
 }
-
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 .sk-three-bounce .sk-child {
     width: 20px;
     height: 20px;
